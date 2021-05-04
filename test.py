@@ -11,3 +11,5 @@ print("version 3 분기입니다.")
 print("version 4 분기입니다.")
 
 print("병합하기")
+
+print("conflict")
