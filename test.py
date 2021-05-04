@@ -15,3 +15,5 @@ print("병합하기")
 print("confliction test")
 
 print("conflict")
+
+print("커밋 되돌리기")
